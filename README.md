@@ -1,5 +1,6 @@
 # ServerLess-Layer
-
+- DotNet60_1
+  - .net 6.0.1 runtime
 - DotNet60
   - .net 6.0 runtime 
 - DotNet50
